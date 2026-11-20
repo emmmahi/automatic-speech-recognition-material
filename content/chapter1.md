@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1: Getting Started with LUMI"
+title: "Chapter 1: GIntroduction to automatic speech recognition"
 nav_order: 2
 ---
 
