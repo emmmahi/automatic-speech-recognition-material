@@ -1,9 +1,9 @@
 ---
-title: "Chapter 1: GIntroduction to automatic speech recognition"
+title: "Chapter 1: Introduction to automatic speech recognition"
 nav_order: 2
 ---
 
-# Chapter 1: Getting Started with LUMI
+# Chapter 1: Introduction to automatic speech recognition
 
 This is an example of an extra page. Use chapters like this to add structure and split your materials into modules instead of a single long page.
 
