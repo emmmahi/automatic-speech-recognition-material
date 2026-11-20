@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4: Using Whisper in different environments"
+title: "Using Whisper in different environments"
 nav_order: 5
 ---
 

@@ -1,6 +1,8 @@
 ---
-title: "Chapter 2: Common use cases for ASR"
+title: "Common use cases for ASR"
 nav_order: 3
 ---
 
-# Chapter 2: Common use cases for ASR
+# Common use cases for ASR
+
+TEXT
