@@ -1,7 +1,8 @@
 ---
-title: "Turbo"
+title: "Large-v3"
 parent: "Choosing a Whisper model"
 nav_order: 6
 ---
 
-# Turbo
+# Large-v3
+
